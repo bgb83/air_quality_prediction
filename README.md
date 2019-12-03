@@ -1,1 +1,1 @@
-# air_quality_prediction
+# Forecasting Air Quality in the Greater NYC Region
