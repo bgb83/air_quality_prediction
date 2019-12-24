@@ -1,0 +1,5 @@
+"DateIssue","DateForecast","ReportingArea","StateCode","Latitude","Longitude","ParameterName","AQI","CategoryNumber","CategoryName","ActionDay","Discussion"
+"2019-08-28 ","2019-08-28 ","New York City Region","NY","40.8419","-73.8359","O3","29","1","Good","false",""
+"2019-08-28 ","2019-08-28 ","New York City Region","NY","40.8419","-73.8359","PM2.5","30","1","Good","false",""
+"2019-08-28 ","2019-08-29 ","New York City Region","NY","40.8419","-73.8359","O3","38","1","Good","false",""
+"2019-08-28 ","2019-08-29 ","New York City Region","NY","40.8419","-73.8359","PM2.5","38","1","Good","false",""

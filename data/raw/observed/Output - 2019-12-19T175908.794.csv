@@ -1,0 +1,4 @@
+"DateObserved","HourObserved","LocalTimeZone","ReportingArea","StateCode","Latitude","Longitude","ParameterName","AQI","CategoryNumber","CategoryName"
+"2019-01-28 ","0","EST","New York City Region","NY","40.8419","-73.8359","OZONE","35","1","Good"
+"2019-01-28 ","0","EST","New York City Region","NY","40.8419","-73.8359","PM2.5","43","1","Good"
+"2019-01-28 ","0","EST","New York City Region","NY","40.8419","-73.8359","PM10","14","1","Good"

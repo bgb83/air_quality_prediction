@@ -1,0 +1,7 @@
+"DateIssue","DateForecast","ReportingArea","StateCode","Latitude","Longitude","ParameterName","AQI","CategoryNumber","CategoryName","ActionDay","Discussion"
+"2019-07-27 ","2019-07-27 ","New York City Region","NY","40.8419","-73.8359","O3","100","2","Moderate","false",""
+"2019-07-27 ","2019-07-27 ","New York City Region","NY","40.8419","-73.8359","PM2.5","57","2","Moderate","false",""
+"2019-07-27 ","2019-07-28 ","New York City Region","NY","40.8419","-73.8359","O3","97","2","Moderate","false",""
+"2019-07-27 ","2019-07-28 ","New York City Region","NY","40.8419","-73.8359","PM2.5","62","2","Moderate","false",""
+"2019-07-27 ","2019-07-29 ","New York City Region","NY","40.8419","-73.8359","O3","93","2","Moderate","false",""
+"2019-07-27 ","2019-07-29 ","New York City Region","NY","40.8419","-73.8359","PM2.5","62","2","Moderate","false",""

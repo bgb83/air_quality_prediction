@@ -1,0 +1,7 @@
+"DateIssue","DateForecast","ReportingArea","StateCode","Latitude","Longitude","ParameterName","AQI","CategoryNumber","CategoryName","ActionDay","Discussion"
+"2018-06-16 ","2018-06-16 ","New York City Region","NY","40.8419","-73.8359","O3","89","2","Moderate","false",""
+"2018-06-16 ","2018-06-16 ","New York City Region","NY","40.8419","-73.8359","PM2.5","42","1","Good","false",""
+"2018-06-16 ","2018-06-17 ","New York City Region","NY","40.8419","-73.8359","O3","101","3","Unhealthy for Sensitive Groups","false",""
+"2018-06-16 ","2018-06-17 ","New York City Region","NY","40.8419","-73.8359","PM2.5","59","2","Moderate","true",""
+"2018-06-16 ","2018-06-18 ","New York City Region","NY","40.8419","-73.8359","O3","101","3","Unhealthy for Sensitive Groups","false",""
+"2018-06-16 ","2018-06-18 ","New York City Region","NY","40.8419","-73.8359","PM2.5","60","2","Moderate","false",""

@@ -1,0 +1,5 @@
+"DateIssue","DateForecast","ReportingArea","StateCode","Latitude","Longitude","ParameterName","AQI","CategoryNumber","CategoryName","ActionDay","Discussion"
+"2018-11-30 ","2018-11-30 ","New York City Region","NY","40.8419","-73.8359","PM2.5","45","1","Good","false",""
+"2018-11-30 ","2018-12-01 ","New York City Region","NY","40.8419","-73.8359","PM2.5","55","2","Moderate","false",""
+"2018-11-30 ","2018-12-02 ","New York City Region","NY","40.8419","-73.8359","PM2.5","50","1","Good","false",""
+"2018-11-30 ","2018-12-03 ","New York City Region","NY","40.8419","-73.8359","PM2.5","55","2","Moderate","false",""
